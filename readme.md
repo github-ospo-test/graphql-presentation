@@ -11,8 +11,6 @@ revealOptions:
 
 # GraphQL Crash Course
 
-## Ready in 1 hour or it's free
-
 <sub>Made with ❤️ by @ajhenry</sub>
 
 <!--s-->
